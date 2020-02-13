@@ -1,0 +1,51 @@
+{
+  "startFromTab": "adcc1392-99ac-46b5-a9d0-aea9c79889e0",
+  "tabs": [
+    {"id": "adcc1392-99ac-46b5-a9d0-aea9c79889e0", "title": "Закупить по списку", "list": "active", "isVisible": true},
+    {"id": "715b5748-356e-466e-9331-13c110ded697", "title": "Заготовленные списки", "list": "prepared", "isVisible": false},
+    {"id": "c98ef815-99fb-4982-9ed5-396a56eefc00", "title": "Составить список", "list": "drawnup", "isVisible": false},
+    {"id": "d4707714-fad0-42bf-964c-59c83f9e8d8b", "title": "История покупок", "list": "historical", "isVisible": false}
+  ],
+  "sorts": {
+    "tabs": "SORT_ALPHABET_ASC",
+    "active": "SORT_TIME_ASC",
+    "prepared": "SORT_TIME_ASC",
+    "drawnup": "SORT_ALPHABET_ASC",
+    "historical": "SORT_TIME_ASC"
+  },
+  "filters": {
+    "active": "SHOW_UNCHECKED"
+  },
+  "lists": {
+    "products": [{
+      "id": "3275a42a-e0dd-4d08-b5a7-5c6be8b99b62",
+      "title": "",
+      "items": [
+        {"name": "Хлеб", "id": "8b0bb2e7-485a-4089-b5fb-49967cb943e8", "isChecked": false}
+      ,{"name": "Мясо", "id": "2f2991e8-e818-4d97-af90-cc0dda2e7754", "isChecked": false}
+      ,{"name": "Рыба", "id": "9a82c5e7-f64e-49eb-8797-f12d0d0aa2c4", "isChecked": false}
+      ,{"name": "Сахар", "id": "07d6f436-3f85-4238-a853-217e71656a59", "isChecked": false}
+      ,{"name": "Мыло", "id": "3ff05141-d6ce-4293-974a-a8d2ef7cfd87", "isChecked": false}
+      ,{"name": "Салфетки", "id": "b486f000-98fe-4135-8a5f-cad7500f3052", "isChecked": false}
+      ,{"name": "Туалетная бумага", "id": "dd82c2dc-36d0-4719-a490-616700c2dda9", "isChecked": false}
+      ,{"name": "Кошачий корм", "id": "6b6a0402-dddb-4529-9877-0eeaed74c8fd", "isChecked": false}
+      ,{"name": "Огурцы", "id": "008b1d4c-8272-4afa-b39b-075890db06e5", "isChecked": false}
+      ,{"name": "Помидоры", "id": "a829666e-0a4d-4f86-a9a0-a0736fcd7695", "isChecked": false}
+      ,{"name": "Морковь", "id": "6290d1e3-3425-4d0b-a61c-a42ff2b3b425", "isChecked": false}
+      ,{"name": "Бананы", "id": "522ec580-699b-49b5-9a8f-07370112895b", "isChecked": false}
+      ,{"name": "Картофель", "id": "e179f289-cb89-4acb-89bc-2d35ff66ede8", "isChecked": false}
+      ,{"name": "Кофе", "id": "3acc04f1-05c2-42c1-8c2d-36304c873998", "isChecked": false}
+      ,{"name": "Чай", "id": "a7a4f307-10bb-4b37-b563-36b2b51621ea", "isChecked": false}
+      ,{"name": "Конфеты", "id": "b4d98597-bdd5-4519-b806-cf4174c603aa", "isChecked": false}
+      ,{"name": "Сыр", "id": "fd35287d-0e4a-4e76-a1ce-b1e697d6cf39", "isChecked": false}
+      ,{"name": "Сливки", "id": "36b55518-cc46-41f4-aa57-c29f0c105871", "isChecked": false}
+      ,{"name": "Крупы", "id": "d72cf939-f782-4969-835c-6585c3585f49", "isChecked": false}
+      ],
+      "time": "Thu Feb 06 2020 15:16:15 GMT+0300 (Москва, стандартное время)"
+    }],
+    "drawnup": [],
+    "prepared": [],
+    "active": [],
+    "historical": []
+  }
+}
